@@ -1,5 +1,5 @@
 # Overview
-In this project I am trying to score the similarity between Questions based on the text in the Question and Answer asked by the users in stackoverflow.
+In this project I am trying to score the similarity between Questions based on the text in the Question and Answer asked by the users in stackoverflow. <br />
 We have used StackSample: 10% of Stack Overflow Q&A from kaggle. <br />
 The similarity between questions are calculated using cosineSimilarity inbuilt in ElasticSearch. <br />
 Elasticsearch is a search engine based on the Lucene library. It provides a distributed, multitenant-capable full-text search engine with an HTTP web interface and schema-free JSON documents. <br />
